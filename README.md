@@ -15,7 +15,7 @@ I'm a "dev" that is really into trying to find something to code. I'm not at all
 ---
 
 ## 💻Languages'n stuff
-**`My go to languages: `** 
+**`My bread and butter: `** 
 <img align="right" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="right" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img align="right" alt="Rust" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg"/>
