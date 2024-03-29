@@ -17,12 +17,10 @@ I'm a "dev" that is really into trying to find something to code. I'm not at all
 ## 💻Languages'n stuff
 **`My bread and butter:`** 
 <img align="right" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
+<img align="right" alt="QEMU" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/Contengent/Contengent/1c25e5040d195bd23a7dbf3c000fd78bcb867319/icons/QEMU.svg"/>
 <img align="right" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img align="right" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"/>
-<img align="right" alt="Golang" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg"/>
-<img align="right" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"/> 
-<img align="right" alt="Bash" width="30px" style="padding-right:10px;" src="https://static-00.iconduck.com/assets.00/virt-manager-icon-512x512-bwvxgl33.png"/><br/>
-
+<img align="right" alt="Golang" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg"/><br/>
           
 **`I know them, but I don't use them often:`**
 <img align="right" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
@@ -31,7 +29,12 @@ I'm a "dev" that is really into trying to find something to code. I'm not at all
 <img align="right" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"/>
 <img align="right" alt="MYSQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /><br/>
 
-
+**`What I'm learning:`**
+<img align="right" alt="Jetbrains" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetbrains/jetbrains-original.svg" />
+<img align="right" alt="Ghidra" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/Contengent/Contengent/5331835419089e259de14466a0aa4763e402133d/icons/ghidra.svg">
+<img align="right" alt="Risc-V" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/Contengent/Contengent/6b244a35181a3377167ddb2bb6388cfd07ebf5b0/icons/RISC-V-logo.svg">
+<img align="right" alt="Haskell" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/haskell/haskell-original.svg">
+<br>
 
 ## My Github Stats 📊
 **`I know they suck, but I'm working on it`**
